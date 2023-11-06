@@ -1,0 +1,41 @@
+body {
+  /* background: linear-gradient(to left, rgb(195, 51, 51), #ffdb6e); */
+  background-color: black;
+  margin-bottom: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#home {
+  margin-top: 40px;
+  color: rgb(255, 255, 255);
+}
+
+#menu {
+  margin: 50px;
+  justify-content: center;
+  text-align: center;
+}
+
+#menu h4 {
+  color: white;
+}
+#menu img {
+  margin-left: 20px;
+}
+
+h2 {
+  margin: 40px;
+  text-align: center;
+  color: white;
+}
+
+.card {
+  background-color: rgb(71, 71, 71);
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+}
+
+.card h5 {
+  color: white;
+}
