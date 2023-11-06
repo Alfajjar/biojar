@@ -1,6 +1,6 @@
 body {
-  /* background: linear-gradient(to left, rgb(195, 51, 51), #ffdb6e); */
-  background-color: black;
+  margin: 100px 20px;
+  background: linear-gradient(to bottom, rgb(2, 2, 2), rgb(51, 51, 51));
   margin-bottom: 100px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
