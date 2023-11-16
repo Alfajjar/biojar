@@ -10,6 +10,12 @@ body {
   color: rgb(255, 255, 255);
 }
 
+#home p,
+h6 {
+  margin: 50px 0px 0px 0px;
+  text-shadow: 2px 2px 2px green;
+}
+
 #menu {
   margin: 50px;
   justify-content: center;
@@ -18,7 +24,15 @@ body {
 
 #menu h4 {
   color: white;
+  text-shadow: 2px 2px 5px rgb(255, 0, 0);
 }
+
+#menu a,
+h5 {
+  color: black;
+  text-shadow: 2px 2px 5px blue;
+}
+
 #menu img {
   margin-left: 20px;
 }
@@ -27,6 +41,7 @@ h2 {
   margin: 40px;
   text-align: center;
   color: white;
+  text-shadow: 2px 2px 5px green;
 }
 
 .card {
